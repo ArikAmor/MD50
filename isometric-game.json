@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.mindaworld",
-    "projectFile": "C:\\Users\\Atom PC\\GDevelop projects\\My project4\\isometric-game.json",
+    "projectFile": "C:\\Users\\Atom PC\\GDevelop projects\\MD50\\isometric-game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -2774,7 +2774,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1
+        "zoomFactor": 0.544
       },
       "objectsGroups": [
         {
@@ -2791,11 +2791,11 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 100,
+          "height": 158,
           "layer": "",
           "locked": false,
           "name": "Minda",
-          "width": 100,
+          "width": 170,
           "x": 543,
           "y": 595,
           "zOrder": 200,
