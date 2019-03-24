@@ -2774,7 +2774,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.544
+        "zoomFactor": 0.4
       },
       "objectsGroups": [
         {
@@ -3706,8 +3706,8 @@
           "locked": false,
           "name": "Obstacle",
           "width": 179,
-          "x": 668,
-          "y": 454,
+          "x": 425,
+          "y": 662,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
