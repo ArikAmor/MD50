@@ -2792,7 +2792,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.448
+        "zoomFactor": 0.25
       },
       "objectsGroups": [
         {
@@ -2809,11 +2809,11 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 234,
+          "height": 205,
           "layer": "",
           "locked": false,
           "name": "Minda",
-          "width": 258,
+          "width": 238,
           "x": 519,
           "y": 550,
           "zOrder": 200,
@@ -3129,8 +3129,8 @@
           "locked": false,
           "name": "Tilebg",
           "width": 0,
-          "x": 1600,
-          "y": 540,
+          "x": 1595,
+          "y": 535,
           "zOrder": 5,
           "numberProperties": [
             {
@@ -4574,8 +4574,8 @@
           "locked": false,
           "name": "sun",
           "width": 169,
-          "x": 157,
-          "y": 4,
+          "x": 130,
+          "y": -4,
           "zOrder": 5006,
           "numberProperties": [],
           "stringProperties": [],
@@ -15052,21 +15052,6 @@
             {
               "disabled": false,
               "folded": false,
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Handle collision (no conditions is necessary, the actions takes care of handling everything)",
-              "comment2": ""
-            },
-            {
-              "disabled": false,
-              "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -15093,6 +15078,21 @@
                 }
               ],
               "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Handle collision (no conditions is necessary, the actions takes care of handling everything)",
+              "comment2": ""
             },
             {
               "disabled": false,
