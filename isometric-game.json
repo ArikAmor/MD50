@@ -2792,7 +2792,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.472
+        "zoomFactor": 0.424
       },
       "objectsGroups": [
         {
@@ -3309,8 +3309,8 @@
           "locked": false,
           "name": "Avatar",
           "width": 97,
-          "x": 13,
-          "y": 14,
+          "x": 46,
+          "y": 11,
           "zOrder": 5000,
           "numberProperties": [],
           "stringProperties": [],
@@ -4047,15 +4047,15 @@
           "initialVariables": []
         },
         {
-          "angle": -22.8188,
+          "angle": 25.7575,
           "customSize": true,
-          "height": 32,
+          "height": 45,
           "layer": "",
           "locked": false,
           "name": "Obstacle",
-          "width": 227,
-          "x": 1265.92,
-          "y": -1277.29,
+          "width": 283,
+          "x": -165,
+          "y": 379,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -4136,26 +4136,6 @@
             {
               "name": "animation",
               "value": 8
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Tilebg",
-          "width": 0,
-          "x": 612.763,
-          "y": -1062.5,
-          "zOrder": 4,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
             }
           ],
           "stringProperties": [],
@@ -4329,8 +4309,8 @@
           "locked": false,
           "name": "Tilebg",
           "width": 0,
-          "x": 572,
-          "y": -1044,
+          "x": 1103,
+          "y": -1913,
           "zOrder": 5,
           "numberProperties": [
             {
@@ -4532,7 +4512,7 @@
           "height": 167,
           "layer": "",
           "locked": false,
-          "name": "NewObject",
+          "name": "farmer_joe",
           "width": 167,
           "x": 601,
           "y": 288,
@@ -4547,7 +4527,7 @@
           "height": 185,
           "layer": "",
           "locked": false,
-          "name": "NewObject2",
+          "name": "sun",
           "width": 233,
           "x": 156,
           "y": 1,
@@ -14669,7 +14649,7 @@
           "behaviors": []
         },
         {
-          "name": "NewObject",
+          "name": "farmer_joe",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -14707,7 +14687,7 @@
           ]
         },
         {
-          "name": "NewObject2",
+          "name": "sun",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -15027,6 +15007,21 @@
             {
               "disabled": false,
               "folded": false,
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Handle collision (no conditions is necessary, the actions takes care of handling everything)",
+              "comment2": ""
+            },
+            {
+              "disabled": false,
+              "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -15053,21 +15048,6 @@
                 }
               ],
               "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Handle collision (no conditions is necessary, the actions takes care of handling everything)",
-              "comment2": ""
             },
             {
               "disabled": false,
@@ -15119,7 +15099,7 @@
                     "Minda",
                     "0",
                     "0",
-                    "1920",
+                    "19200\n",
                     "1080",
                     "",
                     "",
