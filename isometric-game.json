@@ -2792,7 +2792,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.424
+        "zoomFactor": 0.448
       },
       "objectsGroups": [
         {
@@ -4529,9 +4529,54 @@
           "locked": false,
           "name": "sun",
           "width": 233,
-          "x": 156,
-          "y": 1,
+          "x": 2450,
+          "y": 2073,
           "zOrder": 5003,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 121,
+          "layer": "",
+          "locked": false,
+          "name": "sun",
+          "width": 135,
+          "x": 6234,
+          "y": 6842,
+          "zOrder": 5004,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 112,
+          "layer": "",
+          "locked": false,
+          "name": "sun",
+          "width": 122,
+          "x": 6859,
+          "y": 9245,
+          "zOrder": 5005,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 145,
+          "layer": "",
+          "locked": false,
+          "name": "sun",
+          "width": 169,
+          "x": 157,
+          "y": 4,
+          "zOrder": 5006,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
