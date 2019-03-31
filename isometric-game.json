@@ -2760,6 +2760,51 @@
         "name": "NewObject-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-2-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-3.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2792,7 +2837,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.25
+        "zoomFactor": 0.538
       },
       "objectsGroups": [
         {
@@ -3724,8 +3769,8 @@
           "locked": false,
           "name": "Obstacle",
           "width": 179,
-          "x": 668,
-          "y": 454,
+          "x": 655,
+          "y": 445,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -3844,8 +3889,8 @@
           "locked": false,
           "name": "Obstacle",
           "width": 155,
-          "x": 678,
-          "y": 385,
+          "x": 663,
+          "y": 392,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -4557,6 +4602,51 @@
           "x": 130,
           "y": -4,
           "zOrder": 5006,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": -22.8188,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 179,
+          "x": 567.61,
+          "y": 313.227,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": -22.8188,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 179,
+          "x": 551,
+          "y": 391,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 34.3255,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 179,
+          "x": 535,
+          "y": 432,
+          "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14685,12 +14775,46 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 1.11,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-1.png",
+                      "image": "NewObject-1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-2-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -14706,6 +14830,17 @@
                       "customCollisionMask": []
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": []
                 }
               ]
             }
