@@ -2846,7 +2846,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.322
+        "zoomFactor": 0.202
       },
       "objectsGroups": [
         {
@@ -15256,6 +15256,20 @@
                     "1920\n\n",
                     "1080",
                     "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CentreCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "Minda",
+                    "no",
                     "",
                     ""
                   ],
