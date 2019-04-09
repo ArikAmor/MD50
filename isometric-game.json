@@ -2805,6 +2805,15 @@
         "name": "NewObject-3.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject2-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject2-1-0.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2837,7 +2846,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.538
+        "zoomFactor": 0.322
       },
       "objectsGroups": [
         {
@@ -4579,28 +4588,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 145,
+          "height": 161,
           "layer": "",
           "locked": false,
           "name": "sun",
-          "width": 169,
-          "x": 130,
-          "y": -4,
-          "zOrder": 5006,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 145,
-          "layer": "",
-          "locked": false,
-          "name": "sun",
-          "width": 169,
-          "x": 130,
-          "y": -4,
+          "width": 181,
+          "x": 142,
+          "y": -7,
           "zOrder": 5006,
           "numberProperties": [],
           "stringProperties": [],
@@ -14863,7 +14857,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject2-1.png",
+                      "image": "NewObject2-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
