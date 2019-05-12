@@ -2832,6 +2832,24 @@
         "name": "..\\..\\Downloads\\forest-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Downloads/vaglen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\Downloads\\vaglen.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Downloads/vaglen-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\Downloads\\vaglen-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4704,6 +4722,21 @@
           "x": 1115,
           "y": -98,
           "zOrder": 5007,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 88,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject2",
+          "width": 161,
+          "x": 1558,
+          "y": 362,
+          "zOrder": 5008,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14984,6 +15017,44 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "..\\..\\Downloads\\forest-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "vaglen",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\..\\Downloads\\vaglen-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
