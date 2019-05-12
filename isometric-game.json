@@ -2814,6 +2814,24 @@
         "name": "NewObject2-1-0.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Downloads/forest.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\Downloads\\forest.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Downloads/forest-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\Downloads\\forest-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2846,7 +2864,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.202
+        "zoomFactor": 0.226
       },
       "objectsGroups": [
         {
@@ -4671,6 +4689,21 @@
           "x": 40,
           "y": 726,
           "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 500,
+          "layer": "",
+          "locked": false,
+          "name": "forest",
+          "width": 1006,
+          "x": 1115,
+          "y": -98,
+          "zOrder": 5007,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14914,6 +14947,58 @@
                   "looping": false,
                   "timeBetweenFrames": 0.08,
                   "sprites": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "NewObject",
+          "rightMargin": 0,
+          "texture": "",
+          "tiled": true,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "forest",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "forest",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "..\\..\\Downloads\\forest-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
                 }
               ]
             }
