@@ -2945,7 +2945,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.178
+        "zoomFactor": 0.208
       },
       "objectsGroups": [
         {
@@ -5251,6 +5251,36 @@
               "value": 23
             }
           ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": -16.0736,
+          "customSize": true,
+          "height": 221,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject12",
+          "width": 303,
+          "x": -845,
+          "y": 1111,
+          "zOrder": 5010,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 173.772,
+          "customSize": true,
+          "height": 260,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject12",
+          "width": 304,
+          "x": -132,
+          "y": 790,
+          "zOrder": 5011,
+          "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
