@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.mindaworld",
-    "projectFile": "C:\\Users\\Atom PC\\GDevelop projects\\My project7\\isometric-game.json",
+    "projectFile": "C:\\Users\\Atom PC\\GDevelop projects\\MD50\\isometric-game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -2913,6 +2913,15 @@
         "name": "NewObject12-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject13-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject13-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2945,7 +2954,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.178
+        "zoomFactor": 0.25
       },
       "objectsGroups": [
         {
@@ -5251,6 +5260,81 @@
               "value": 23
             }
           ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 208,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject9",
+          "width": 222,
+          "x": -1915,
+          "y": 248,
+          "zOrder": 5010,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 165,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject8",
+          "width": 210,
+          "x": -1073,
+          "y": 268,
+          "zOrder": 5011,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 111,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject10",
+          "width": 114,
+          "x": -1193,
+          "y": 216,
+          "zOrder": 5013,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 171,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject11",
+          "width": 198,
+          "x": -1270,
+          "y": 119,
+          "zOrder": 5014,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject13",
+          "width": 0,
+          "x": -1818.94,
+          "y": 572.5,
+          "zOrder": 5015,
+          "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
@@ -15943,6 +16027,44 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "NewObject12-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject13",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject13",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject13-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
