@@ -2922,6 +2922,15 @@
         "name": "NewObject13-1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject14-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject14-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -5364,6 +5373,21 @@
           "x": -1802.94,
           "y": 472.5,
           "zOrder": 5017,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 152,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject14",
+          "width": 168,
+          "x": -1251,
+          "y": -164,
+          "zOrder": 5018,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16095,6 +16119,44 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "NewObject13-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject14",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject14",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject14-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
