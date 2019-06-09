@@ -3044,7 +3044,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.25
+        "zoomFactor": 0.154
       },
       "objectsGroups": [
         {
@@ -4609,15 +4609,15 @@
           "initialVariables": []
         },
         {
-          "angle": 90.0149,
+          "angle": 150.27,
           "customSize": true,
           "height": 32,
           "layer": "",
           "locked": false,
           "name": "Obstacle",
           "width": 227,
-          "x": -706,
-          "y": 987,
+          "x": -726,
+          "y": 1059,
           "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
@@ -5499,6 +5499,51 @@
           "x": -1338,
           "y": -154,
           "zOrder": 5020,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90.0149,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 227,
+          "x": -693,
+          "y": 909,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 165.083,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 227,
+          "x": -933,
+          "y": 1149,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 154.367,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 441,
+          "x": -881,
+          "y": 1221,
+          "zOrder": 5001,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16354,7 +16399,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 2.08,
+                  "timeBetweenFrames": 1.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
