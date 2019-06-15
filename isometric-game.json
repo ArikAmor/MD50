@@ -3147,6 +3147,15 @@
         "name": "NewObject18-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject19-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject19-1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4886,8 +4895,8 @@
           "locked": false,
           "name": "NewObject",
           "width": 184,
-          "x": 634,
-          "y": 220,
+          "x": -2814,
+          "y": -137,
           "zOrder": 5002,
           "numberProperties": [],
           "stringProperties": [],
@@ -5945,6 +5954,21 @@
               "value": 7
             }
           ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": -4.8227e-15,
+          "customSize": true,
+          "height": 246,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject19",
+          "width": 291,
+          "x": -2791,
+          "y": -361,
+          "zOrder": 5024,
+          "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
@@ -17057,6 +17081,45 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "NewObject18-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject19",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject19",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject19-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
