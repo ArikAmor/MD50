@@ -3237,6 +3237,51 @@
         "name": "NewObject22-2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject23-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject23-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject23-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject23-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject23-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject23-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject24-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject24-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject24-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject24-2.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3269,7 +3314,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.442
+        "zoomFactor": 0.13
       },
       "objectsGroups": [
         {
@@ -4976,8 +5021,8 @@
           "locked": false,
           "name": "NewObject",
           "width": 184,
-          "x": -2814,
-          "y": -137,
+          "x": -2537,
+          "y": -309,
           "zOrder": 5002,
           "numberProperties": [],
           "stringProperties": [],
@@ -6149,6 +6194,136 @@
           "x": -3154,
           "y": -282,
           "zOrder": 5028,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 178,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject23",
+          "width": 173,
+          "x": -2996,
+          "y": 9,
+          "zOrder": 5029,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 227,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject23",
+          "width": 213,
+          "x": -3134,
+          "y": -135,
+          "zOrder": 5030,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 262,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject24",
+          "width": 257,
+          "x": -2773,
+          "y": -125,
+          "zOrder": 5031,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -2811,
+          "y": -564,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -3123,
+          "y": -574,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 213,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject2",
+          "width": 227,
+          "x": -2738,
+          "y": -659,
+          "zOrder": 5032,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 188,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject2",
+          "width": 198,
+          "x": -2857,
+          "y": -565,
+          "zOrder": 5033,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 188,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject2",
+          "width": 183,
+          "x": -2719,
+          "y": -545,
+          "zOrder": 5034,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -17497,8 +17672,8 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 3.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -17520,6 +17695,135 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "NewObject22-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject23",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject23",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 2.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject23-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject23-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject23-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject24",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject24",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject24-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject24-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
