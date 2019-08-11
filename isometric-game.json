@@ -3282,6 +3282,168 @@
         "name": "NewObject24-2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject20-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject20-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject20-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject20-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject25-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject25-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject25-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject25-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject26-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject26-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject26-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject26-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject26-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject26-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject26-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject26-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject27-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject27-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject28-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject28-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject28-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject28-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject29-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject29-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject30-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject30-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject31-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject31-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject31-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject31-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject32-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject32-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject33-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject33-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject34-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject34-1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3314,7 +3476,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.178
+        "zoomFactor": 0.37
       },
       "objectsGroups": [
         {
@@ -5746,8 +5908,8 @@
           "locked": false,
           "name": "NewObject15",
           "width": 124,
-          "x": -1338,
-          "y": -154,
+          "x": -1315,
+          "y": -184,
           "zOrder": 5020,
           "numberProperties": [],
           "stringProperties": [],
@@ -6106,8 +6268,8 @@
           "locked": false,
           "name": "NewObject20",
           "width": 194,
-          "x": -2219,
-          "y": -529,
+          "x": -2227,
+          "y": -558,
           "zOrder": 5025,
           "numberProperties": [],
           "stringProperties": [],
@@ -6176,8 +6338,8 @@
           "locked": false,
           "name": "NewObject22",
           "width": 159,
-          "x": -2982,
-          "y": -281,
+          "x": -2989,
+          "y": -296,
           "zOrder": 5027,
           "numberProperties": [],
           "stringProperties": [],
@@ -6206,8 +6368,8 @@
           "locked": false,
           "name": "NewObject23",
           "width": 173,
-          "x": -2996,
-          "y": 9,
+          "x": -3001,
+          "y": 2,
           "zOrder": 5029,
           "numberProperties": [],
           "stringProperties": [],
@@ -6221,8 +6383,8 @@
           "locked": false,
           "name": "NewObject23",
           "width": 213,
-          "x": -3134,
-          "y": -135,
+          "x": -3118,
+          "y": -101,
           "zOrder": 5030,
           "numberProperties": [],
           "stringProperties": [],
@@ -6236,8 +6398,8 @@
           "locked": false,
           "name": "NewObject24",
           "width": 257,
-          "x": -2773,
-          "y": -125,
+          "x": -2752,
+          "y": -113,
           "zOrder": 5031,
           "numberProperties": [],
           "stringProperties": [],
@@ -6339,6 +6501,1461 @@
           "x": -2980,
           "y": -613,
           "zOrder": 5035,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 26.5651,
+          "customSize": true,
+          "height": 67,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject25",
+          "width": 83,
+          "x": -2426,
+          "y": -244,
+          "zOrder": 5036,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 78.4911,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 63,
+          "x": -2861,
+          "y": 114,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 78.4911,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 63,
+          "x": -2653.46,
+          "y": -205.009,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 175.28,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 63,
+          "x": -2905,
+          "y": 79,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 171.671,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 63,
+          "x": -2897,
+          "y": 162,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 171.671,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 63,
+          "x": -2897,
+          "y": 162,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 269.801,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -2818,
+          "y": 42,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 273.439,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 63,
+          "x": -2941,
+          "y": 122,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 269.801,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -2490,
+          "y": -197,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 269.801,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -2617,
+          "y": 42,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 363.961,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -2707,
+          "y": -46,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 358.655,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -2714,
+          "y": 132,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 358.437,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -2533,
+          "y": -284,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 353.654,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -2546,
+          "y": -121,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 449.801,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -2608,
+          "y": -206,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 269.801,
+          "customSize": true,
+          "height": 18,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 267,
+          "x": -2655,
+          "y": -245,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 269.801,
+          "customSize": true,
+          "height": 18,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 267,
+          "x": -2915,
+          "y": -250,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 361.02,
+          "customSize": true,
+          "height": 18,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 267,
+          "x": -2779,
+          "y": -109,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 361.846,
+          "customSize": true,
+          "height": 18,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 267,
+          "x": -2784,
+          "y": -374,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 450.565,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 208,
+          "x": -3095,
+          "y": -211,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 357.418,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -3127,
+          "y": -313,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 353.654,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -3157,
+          "y": -119,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 449.365,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -3220,
+          "y": -216,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 363.116,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 133,
+          "x": -2976,
+          "y": -130,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 451.784,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 129,
+          "x": -2908,
+          "y": -191,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 353.654,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 167,
+          "x": -2994,
+          "y": -254,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 89.801,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 108,
+          "x": -2952,
+          "y": 53,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 181.64,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 97,
+          "x": -3004,
+          "y": 5,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 177.614,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 92,
+          "x": -3002,
+          "y": 105,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 89.801,
+          "customSize": true,
+          "height": 21,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 92,
+          "x": -3051,
+          "y": 64,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 177.349,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 151,
+          "x": -2205,
+          "y": -391,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 89.801,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 140,
+          "x": -2289,
+          "y": -447,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 179.348,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 162,
+          "x": -2218,
+          "y": -515,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 84.9742,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 142,
+          "x": -2117,
+          "y": -456,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 268.843,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 108,
+          "x": -2893,
+          "y": -517,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 180.956,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 131,
+          "x": -2967,
+          "y": -468,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 105.056,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 108,
+          "x": -3019,
+          "y": -526,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 182.252,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 120,
+          "x": -2945,
+          "y": -567,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 85.9225,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 104,
+          "x": -2453,
+          "y": 381,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 78.4911,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 106,
+          "x": -2303,
+          "y": 384,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 180.941,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 122,
+          "x": -2394,
+          "y": 343,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 173.806,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 137,
+          "x": -2387,
+          "y": 435,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 366.227,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 221,
+          "x": -1372,
+          "y": -38,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 469.031,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 221,
+          "x": -1432,
+          "y": -145,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 366.227,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 221,
+          "x": -1352,
+          "y": -199,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 448.462,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 221,
+          "x": -1258,
+          "y": -119,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 366.227,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 171,
+          "x": -1053,
+          "y": 425,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 452.575,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 144,
+          "x": -1140,
+          "y": 372,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 366.227,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 221,
+          "x": -1100,
+          "y": 318,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 452.575,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 144,
+          "x": -962,
+          "y": 369,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 452.575,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 268,
+          "x": -2076,
+          "y": 593,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 452.575,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 218,
+          "x": -1788,
+          "y": 600,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 538.761,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 238,
+          "x": -1922,
+          "y": 479,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 540.577,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 235,
+          "x": -1935,
+          "y": 704,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 452.575,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 171,
+          "x": -1300,
+          "y": 213,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 537.676,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 144,
+          "x": -1229,
+          "y": 151,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 452.575,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 144,
+          "x": -1180,
+          "y": 213,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 534.209,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Obstacle",
+          "width": 144,
+          "x": -1211,
+          "y": 261,
+          "zOrder": 5001,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -3450,
+          "y": -35,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -3133,
+          "y": -837,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -2821,
+          "y": -832,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -3451,
+          "y": -301,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -3445,
+          "y": -566,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -3440,
+          "y": -836,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 200,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject17",
+          "width": 194,
+          "x": -2747,
+          "y": -910,
+          "zOrder": 5022,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 154,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject26",
+          "width": 114,
+          "x": -3434,
+          "y": -305,
+          "zOrder": 5037,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 168,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject26",
+          "width": 171,
+          "x": -3361,
+          "y": -301,
+          "zOrder": 5038,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 141,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject26",
+          "width": 124,
+          "x": -3323.91,
+          "y": -341.512,
+          "zOrder": 5039,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 168,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject26",
+          "width": 148,
+          "x": -3321,
+          "y": -237,
+          "zOrder": 5040,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 134,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject26",
+          "width": 108,
+          "x": -3277,
+          "y": -66,
+          "zOrder": 5041,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 134,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject26",
+          "width": 121,
+          "x": -3384,
+          "y": -73,
+          "zOrder": 5042,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 148,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject26",
+          "width": 134,
+          "x": -3280,
+          "y": -6,
+          "zOrder": 5043,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 195,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject26",
+          "width": 128,
+          "x": -3418,
+          "y": -36,
+          "zOrder": 5044,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 76,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject27",
+          "width": 69,
+          "x": -3201,
+          "y": 30,
+          "zOrder": 5045,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 142,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject28",
+          "width": 162,
+          "x": -3443,
+          "y": -500,
+          "zOrder": 5046,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 164,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject13",
+          "width": 140,
+          "x": -2629,
+          "y": -556,
+          "zOrder": 5019,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject29",
+          "width": 0,
+          "x": -2731,
+          "y": -573,
+          "zOrder": 5047,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 158,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject30",
+          "width": 148,
+          "x": -2622,
+          "y": -233,
+          "zOrder": 5048,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 92,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject31",
+          "width": 84,
+          "x": -3251,
+          "y": -418,
+          "zOrder": 5049,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 89,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject31",
+          "width": 94,
+          "x": -3299,
+          "y": -463,
+          "zOrder": 5050,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 98,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject31",
+          "width": 82,
+          "x": -3205,
+          "y": -460,
+          "zOrder": 5051,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 86,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject31",
+          "width": 82,
+          "x": -3244.49,
+          "y": -512.031,
+          "zOrder": 5052,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 312,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject32",
+          "width": 336,
+          "x": -3460,
+          "y": -996,
+          "zOrder": 5053,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -3451,
+          "y": -1103,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -3133,
+          "y": -1103,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -2867,
+          "y": -1103,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -3458,
+          "y": -1363,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -3159,
+          "y": -1376,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Tilebg",
+          "width": 0,
+          "x": -2848,
+          "y": -1369,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 10
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 346,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject34",
+          "width": 296,
+          "x": -2790,
+          "y": -1271,
+          "zOrder": 5054,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 191,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject33",
+          "width": 183,
+          "x": -2713,
+          "y": -1387,
+          "zOrder": 5055,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 202,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject33",
+          "width": 191,
+          "x": -2921,
+          "y": -1377,
+          "zOrder": 5056,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 187,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject20",
+          "width": 194,
+          "x": -3138,
+          "y": -1088,
+          "zOrder": 5025,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -17585,7 +19202,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject20-1.png",
+                      "image": "NewObject20-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17602,58 +19219,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject20-2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewObject20-3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewObject20-4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewObject20-5.png",
+                      "image": "NewObject20-2-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17816,8 +19382,8 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 3.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -17866,7 +19432,456 @@
           "updateIfNotVisible": false,
           "variables": [],
           "behaviors": [],
-          "animations": []
+          "animations": [
+            {
+              "name": "NewObject25",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 2.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject25-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject25-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject26",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject26",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 2.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject26-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject26-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject26-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject26-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject27",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject27",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject27-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject28",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject28",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject28-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject29",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject29",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject29-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject30",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject30",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject30-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject31",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject31",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject31-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject32",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject32",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject32-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject33",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject33",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject33-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject34",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject34",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject34-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
